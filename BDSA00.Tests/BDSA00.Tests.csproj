@@ -19,8 +19,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\BDSA00\BDSA00.csproj" />
-  </ItemGroup>
-
 </Project>
